@@ -1,5 +1,5 @@
-## Interface: 60000
-## X-Curse-Packaged-Version: v1.9.0
+## Interface: 50400
+## X-Curse-Packaged-Version: v1.8.12
 ## X-Curse-Project-Name: Inline Aura
 ## X-Curse-Project-ID: inline-aura
 ## X-Curse-Repository-ID: wow/inline-aura/mainline
@@ -9,7 +9,7 @@
 ## LoadOnDemand: 1
 ## Dependencies: InlineAura
 ## OptDeps: Ace3, AceGUI-3.0-SharedMediaWidgets
-## Version: v1.9.0
+## Version: v1.8.12
 ## X-Date: 2013-09-21T08:20:15Z
 ## X-Embeds: AceGUI-3.0-SharedMediaWidgets
 ## X-Part-Of: InlineAura
